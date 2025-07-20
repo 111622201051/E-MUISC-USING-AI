@@ -21,7 +21,7 @@ Here’s a **simplified version** of the GitHub description for your **eMusic** 
 
 ### 🛠️ Tech Stack
 
-* **Backend**: Python (Django/Flask)
+* **Backend**: Python (Django)
 * **AI/ML**: NLP, Sentiment Analysis, Recommendation Models
 * **APIs**: Spotify API, Speech-to-Text API
 * **Frontend**: HTML, CSS, JavaScript
@@ -50,5 +50,3 @@ python manage.py runserver
 If you like this project, give it a ⭐ and share your feedback!
 
 ---
-
-Would you like this as a downloadable `README.md` file?
