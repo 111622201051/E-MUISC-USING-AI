@@ -1,5 +1,4 @@
 # E-MUISC USING AI
-Here’s a **simplified version** of the GitHub description for your **eMusic** project:
 
 ---
 
